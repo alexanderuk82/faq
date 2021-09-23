@@ -1,2 +1,2 @@
 # faq
-I am design this form scratch using adobe XD and then I convert this using code.
+I am designed this from scratch using adobe XD and then I converted this using code.
